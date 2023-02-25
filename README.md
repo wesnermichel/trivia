@@ -10,6 +10,7 @@ This project is a game in which a visitor can make choices based on a given ques
 ## Wireframe
 
 <img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>
+<img src="https://i.imgur.com/YVhNtkN.png" alt="Wireframe 2"/>
 
 
 ### MVP Goals
