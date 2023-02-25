@@ -2,7 +2,7 @@
 This is our first project, we will be using HTML5, CSS3, Javascript with DOM manipulation. The goal is to make a browser based game. 
 
 ## Project Choice
-For my first project, I decided to go woth the trivia game. 
+For my first project, I decided to go with the trivia game. 
 
 ## Project Description 
 
