@@ -1,4 +1,14 @@
-# Wesner's Trivia Game 
+## Project 1
+This is our first project, we will be using HTML5, CSS3, Javascript with DOM manipulation. The goal is to make a browser based game. 
+
+## Project Choice
+For my first project, I decided to go woth the trivia game. 
+
+## Project Description 
+
+## Wireframe
+
+<img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>
 
 ## User Experience
 ``
@@ -14,8 +24,5 @@
 ## Stretch Goals
 1) Allow users to share their results on their social media/or personal webpage. #trivia
 
-##Wireframe
-
-<img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>
 
 
