@@ -13,3 +13,6 @@
 
 ## Stretch Goals
 1) Allow users to share their results on their social media/or personal webpage. #trivia
+
+##Wireframe
+<img src="https://imgur.com/YwHeqoR" alt="Wireframe" title="wireframw image">
