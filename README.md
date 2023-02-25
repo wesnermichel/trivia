@@ -13,8 +13,8 @@ For my first project, I decided to go woth the trivia game.
 
 ### MVP Goals
 <ul>
-  <li>As a player, I want my game to give me a question that is clear and concise<li>
-  <li>As a player, I want my game to let me choose an option which I beleive is the correct answer.>/li>
+  <li>As a player, I want my game to give me a question that is clear and concise</li>
+  <li>As a player, I want my game to let me choose an option which I beleive is the correct answer</li>
   <li>As a player, I want my game to me know when I am wrong/ or when I am right</li>
   <li>As a player, I want my game to let me give me a congratulations at the end of the game</li>
   <li>As a player, I want my game to allow me to play another round.</li>
