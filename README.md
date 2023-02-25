@@ -16,4 +16,4 @@
 
 ##Wireframe
 
-<img src="https://imgur.com/YwHeqoR" alt="Wireframe">
+<img src="https://imgur.com/YwHeqoR" alt="Wireframe"/>
