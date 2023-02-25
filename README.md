@@ -3,7 +3,7 @@
 ## User Experience
 ``
 1. User/Visitor is given a question, and is provided with 4 posible answers, in which only one can be selected. 
-2. 3 of the 4 selection are wrong
+2. 3 of the 4 selection will be  wrong
 3. Upon clicking the button to submit their selection on each question, the visitor would be told if their selection was correct
 4. I will have anywhere from 10-20 diffrent questions. 
 ``
