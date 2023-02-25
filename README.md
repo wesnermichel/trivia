@@ -17,7 +17,7 @@ This project is a game in which a visitor can make choices based on a given ques
   <li>As a player, I want my game to give me a question that is clear and concise</li>
   <li>As a player, I want my game to let me choose an option which I beleive is the correct answer</li>
   <li>As a player, I want my game to me know when I am wrong/ or when I am right</li>
-  <li>As a player, I want my game to let me give me a congratulations at the end of the game, is my score is over a certain percentage/number</li>
+  <li>As a player, I want my game to let me give me a congratulations at the end of the game, if my score is over a certain percentage/number</li>
   <li>As a player, I want my game to allow me to play another round.</li>
 </ul>
   
