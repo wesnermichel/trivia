@@ -9,4 +9,7 @@
 ``
 ## Next Features Coming soon
 
-1. I plan to continue to upgrade the CSS overtime to give it a better look and feel for the user. # trivia
+1. I plan to continue to upgrade the CSS overtime to give it a better look and feel for the user.
+
+## Stretch Goals
+1) Allow users to share their results on their social media/or personal webpage. #trivia
