@@ -5,7 +5,7 @@ This is our first project, we will be using HTML5, CSS3, Javascript with DOM man
 For my first project, I decided to go with the trivia game. 
 
 ## Project Description 
-This prject is a game in whih a visitor can make chooses based on a qiven question. 
+This project is a game in whih a visitor can make chooses based on a qiven question. 
 
 ## Wireframe
 
