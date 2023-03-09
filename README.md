@@ -1,20 +1,21 @@
 ## Project 1
-This is our first project, we will be using HTML5, CSS3, Javascript with DOM manipulation. The goal is to make a browser based game. 
+
+This is our first project, we will be using HTML5, CSS3, Javascript with DOM manipulation. The goal is to make a browser based game.
 
 ## Project Choice
-For my first project, I decided to go with the trivia game. 
 
-## Project Description 
-This project is a game in which a visitor can make choices based on a given question. The goal would be to get as much questions right the first time. There is a limited amount of questions (10-15) as this is a browser based game I want to make it easy to understand and enjoyable, hence its limit on questions. 
+For my first project, I decided to go with the trivia game.
+
+## Project Description
+
+This project is a game in which a visitor can make choices based on a given question.
 
 ## Wireframe
 
 <img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>
-<img src="https://i.imgur.com/YVhNtkN.png" alt="Wireframe 2"/>
-<img src="https://imgur.com/DIWsH6K.png" alt="Wireframe 3"/>
-
 
 ### MVP Goals
+
 <ul>
   <li>As a player, I want my game to give me a question that is clear and concise</li>
   <li>As a player, I want my game to let me choose an option which I beleive is the correct answer</li>
@@ -28,5 +29,3 @@ This project is a game in which a visitor can make choices based on a given ques
   <li>As a player, I want my game to allow me to share my their results on their social media//is that possible without databse?</li>
   <li>As a player, I want my game to to be responsive, so can be played on any device </li>
 </ul>
-
-
