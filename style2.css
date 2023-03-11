@@ -1,16 +1,18 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
 :root {
   --hue-neutral: 200;
-  --hue-wrong: 0;
+ --hue-wrong: 0;
   --hue-correct: 145;
-}
+} */
 
 body {
 
-  padding: 100px;
+  padding: 10;
   margin: 0;
   display: flex;
   width: 100vw;
@@ -20,8 +22,17 @@ body {
   background-color: hsl(var(--hue), 100%, 20%);
 }
 
-
-h1, h2 {
+html {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dfdfdf;
+  }
+  
+h1,
+h2 {
   text-align: center;
 }
 #answer-buttons {
@@ -31,7 +42,6 @@ h1, h2 {
 .container {
   width: 800px;
   max-width: 80%;
-  height: 1000px;
   background-color: white;
   border-radius: 5px;
   padding: 10px;
@@ -40,9 +50,8 @@ h1, h2 {
 }
 
 .question {
- display: block;
- margin-bottom: 20px;
-
+  display: block;
+  margin-bottom: 20px;
 }
 .btn-grid {
   display: flex;
@@ -71,16 +80,17 @@ h1, h2 {
 }
 
 .btn.wrong {
-  --hue: var(--hue-wrong);
+color: bla
 }
 
-.start-btn, .next-btn {
+.start-btn,
+.next-btn {
   font-size: 1.5rem;
   font-weight: bold;
   padding: 10px 20px;
 }
 
-.controls {
+.display btns {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,64 +101,7 @@ h1, h2 {
 }
 
 
+ 
 
 
 
-
-
-
-
-
-/* Background Styles Only */
-
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
-
-html {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #DFDFDF;
-}
-
-.side-links {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-}
-
-.side-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none;
-  margin-bottom: 10px;
-  color: white;
-  width: 180px;
-  padding: 10px 0;
-  border-radius: 10px;
-}
-
-.side-link-youtube {
-  background-color: red;
-}
-
-.side-link-twitter {
-  background-color: #1DA1F2;
-}
-
-.side-link-github {
-  background-color: #6e5494;
-}
-
-.side-link-text {
-  margin-left: 10px;
-  font-size: 18px;
-}
-
-.side-link-icon {
-  color: white;
-  font-size: 30px;
-}
