@@ -14,6 +14,10 @@ This project is a game in which a visitor can make choices based on a given ques
 
 <img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>
 
+Current Status as of 3/111 12:21EST
+<img src="https://i.imgur.com/RXDdG9r.png" alt="Wireframe- Updated"/>
+
+
 ### MVP Goals
 
 <ul>
