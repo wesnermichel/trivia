@@ -10,7 +10,7 @@
   --hue-correct: 145;
 }
 */ body {
-  background-image: url("/bkground.jpg");
+  background-image: url("./bkground.jpg");
   padding: 10;
   margin: 0;
   display: flex;
