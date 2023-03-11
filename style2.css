@@ -6,12 +6,11 @@
 
 :root {
   --hue-neutral: 200;
- --hue-wrong: 0;
+  --hue-wrong: 0;
   --hue-correct: 145;
-} */
-
+}
 body {
-
+  background-image: url("./bkground.jpg");
   padding: 10;
   margin: 0;
   display: flex;
@@ -19,18 +18,22 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: hsl(var(--hue), 100%, 20%);
 }
 
+.hide {
+  display: none;
+}
+
+
 html {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #dfdfdf;
-  }
-  
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color: #dfdfdf;
+}
+
 h1,
 h2 {
   text-align: center;
@@ -40,18 +43,20 @@ h2 {
 }
 
 .container {
+  text-align: center;
   width: 800px;
   max-width: 80%;
-  background-color: white;
   border-radius: 5px;
+  background-color: white;
   padding: 10px;
   box-shadow: 0 0 10px 2px;
-  text-align: center;
+  
 }
 
 .question {
-  display: block;
   margin-bottom: 20px;
+  display: block;
+ 
 }
 .btn-grid {
   display: flex;
@@ -60,12 +65,20 @@ h2 {
   margin: 20px 0;
 }
 
+.start-btn,
+.next-btn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
 .btn {
   --hue: var(--hue-neutral);
-  border: 1px solid hsl(var(--hue), 100%, 30%);
   background-color: hsl(var(--hue), 100%, 50%);
-  border-radius: 5px;
+  border: 1px solid hsl(var(--hue), 100%, 30%);
   padding: 5px 10px;
+  border-radius: 5px;
+ 
   color: white;
   outline: none;
 }
@@ -80,28 +93,14 @@ h2 {
 }
 
 .btn.wrong {
-color: bla
+  color: bla;
 }
 
-.start-btn,
-.next-btn {
-  font-size: 1.5rem;
-  font-weight: bold;
-  padding: 10px 20px;
-}
+
 
 .display btns {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
-.hide {
-  display: none;
-}
-
-
- 
-
-
 
